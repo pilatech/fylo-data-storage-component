@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [here](https://github.com/pilatech/fylo-data-storage-component)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Live Site URL: [here](https://fylo-data-storage-component-by-pilate.netlify.app/)
 
 ## My process
 

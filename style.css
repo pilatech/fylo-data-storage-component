@@ -75,6 +75,7 @@ body {
 
 .progress__notification {
  margin-bottom: 2rem;
+ line-height: 1.6;
 }
 
 .progress__bar {
@@ -193,16 +194,6 @@ body {
   position: absolute;
   right: 0;
   top: 80%;
- }
-
- 
- .progress__report--accent {
-  font-size: 1.4rem;
-  text-transform: uppercase;
-  color: var(--dark);
-  letter-spacing: 1px;
-  margin-top: 5px;
-  margin-left: 1rem;
  }
  
 }
